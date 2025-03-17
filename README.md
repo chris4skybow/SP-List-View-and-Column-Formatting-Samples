@@ -2,7 +2,6 @@
 This repository is a collection of Formatting Samples for SharePoint List Views and Columns.
 
 References:
-
 https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting
 https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-commandbar-formatting
 
